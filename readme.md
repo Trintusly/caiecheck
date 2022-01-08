@@ -14,4 +14,5 @@ If you have got exam anxiety like me & don't like checking your results, this bo
 3. Run **pip install requests pandas**
 5. Run the bot!
 
-> At its bare bone, this bot will not do much except just print the results to the console when they come out. You can replace parts of the checking code to other things like activating some light, music or send messages through DIscord webhooks. 
+> At its bare bone, this bot will not do much except just print the results to the console when they come out. You can replace parts of the checking code to other things like activating some light, music or send messages through Discord webhooks. webhook.py is such an intergration.
+ 
