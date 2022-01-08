@@ -1,0 +1,181 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<title>Candidate Results | Your Results</title>
+<!-- Metadata -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="copyright"
+	content="This is document is &#169; copyrighted to Cambridge Assessment, 2008-Present" />
+<!-- Imports -->
+<link rel="stylesheet" type="text/css" href="resources/css/screen.css"
+	media="screen" />
+<link rel="stylesheet" type="text/css" href="resources/css/print.css"
+	media="print" />
+<link rel="stylesheet" type="text/css" href="resources/css/mobile.css"
+	media="handheld" />
+<link rel="Shortcut Icon" href="favicon.ico" type="image/x-icon" />
+<script src="resources/scripts/jquery-1.2.6.min.js"
+	type="text/javascript"></script>
+<script src="resources/scripts/jquery-ui-1.6.custom.min.js"
+	type="text/javascript"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		$("#nav").css("display", "block");
+		$("#printpage").html(document.createElement('span'));
+		$("#printpage").html(document.createElement('a'));
+		$("#printpage a").attr("href", "javascript:window.print()");
+		$("#printpage a").attr("title", "Print this page");
+		$("#printpage a").html("Print this page");
+		$("#whatnext-button").css("display", "inline");
+		$("#nav").tabs();
+		$("#whatnext-button").click(function() {
+			$("#nav-whatnext").click();
+			return false;
+		});
+	});
+</script>
+</head>
+
+<body>
+
+	<p id="skip">
+		Skip to: <a href="results;jsessionid=6849A6FA5EABB4BBE7A887C106CE9817#nav"
+			title="Navigation">Navigation</a> | <a
+			href="results;jsessionid=6849A6FA5EABB4BBE7A887C106CE9817#yourresults" title="Content">Content</a>
+	</p>
+    <script type="text/javascript">var rumMOKey='9ebc3daa54d11ad186a49543d7cc89b7';(function(){if(window.performance && window.performance.timing && window.performance.navigation) {var site24x7_rum_beacon=document.createElement('script');site24x7_rum_beacon.async=true;site24x7_rum_beacon.setAttribute('src','//static.site24x7rum.com/beacon/site24x7rum-min.js?appKey='+rumMOKey);document.getElementsByTagName('head')[0].appendChild(site24x7_rum_beacon);}})(window)</script>
+	<div id="header">
+		<h1 title="Candidate Results">
+			<a href="results.jsp" title="Candidate Results">Candidate Results</a>
+		</h1>
+		<span class="logo"
+			title="University of Cambridge International Examinations"></span>
+	</div>
+
+	<ul id="nav">
+		<li><a href="results;jsessionid=6849A6FA5EABB4BBE7A887C106CE9817#yourresults"
+			title="Your Results">Your Results</a></li>
+		<li><a href="results;jsessionid=6849A6FA5EABB4BBE7A887C106CE9817#whatnext"
+			title="What's Next?" id="nav-whatnext">What's Next?</a></li>
+	</ul>
+
+	<div id="yourresults" class="ui-tabs-panel">
+		<h2>
+			Your Results:
+			November 2021
+		</h2>
+
+		<table summary="Your examination results for November 2021">
+			<caption>Table: Your Examination Results</caption>
+			<thead>
+				<tr>
+					<th scope="col" id="t-examination" abbr="Exam">Examination</th>
+					<th scope="col" id="t-qualification" abbr="Qualification">Qualification</th>
+					<th scope="col" id="t-grade" abbr="Grade">Grade Awarded</th>
+				</tr>
+			</thead>
+			<tfoot>
+				<tr>
+					<td colspan="2" id="info">The results displayed are
+						provisional, and for information only</td>
+					<td id="printpage"></td>
+				</tr>
+			</tfoot>
+			<tbody>
+				
+				<tr class="zebra">
+					<td scope="row"><span class="exam">Islamiyat</span>
+						<span class="examinfo">(2058)
+					</span></td>
+					<td>GCE O Level</td>
+					<td class="result"><strong> A
+							
+					</strong></td>
+				</tr>
+				
+				<tr class="">
+					<td scope="row"><span class="exam">Pakistan Studies</span>
+						<span class="examinfo">(2059)
+					</span></td>
+					<td>GCE O Level</td>
+					<td class="result"><strong> Results to be released
+							
+					</strong></td>
+				</tr>
+				
+			</tbody>
+		</table>
+
+		<a id="whatnext-button"
+			href="results;jsessionid=6849A6FA5EABB4BBE7A887C106CE9817#whatnext"
+			title="Learn what to do next"><strong>What to do next</strong>
+			&#187;</a>
+	</div>
+
+	<div id="whatnext" class="ui-tabs-panel">
+		<h2>What's Next?</h2>
+
+		<p>If you have passed your exams and are happy with your results,
+			congratulations!</p>
+
+		<div class="vcard">
+			<p>
+				If you did not receive the results you were hoping for, your first
+				point of contact is <strong class="fn">Examination
+				</strong> at <span class="org">Beaconhouse Defence Campus</span>.
+			</p>
+			<dl>
+				<dt>
+					<strong>Email</strong>
+				</dt>
+				<dd>
+					<a
+						href="mailto:shahzad.ahmed@bh.edu.pk&#38;subject=Enquiry from Candidate Results Service (Candidate no. 599)"
+						title="Send an email to Examination"
+						class="email">shahzad.ahmed@bh.edu.pk </a>
+				</dd>
+				<dt>
+					<strong>Phone</strong>
+				</dt>
+				<dd class="tel">
+					<span class="work">&nbsp;042 3572 3150, 3572 3160</span>
+				</dd>
+			</dl>
+		</div>
+
+		<p class="final">
+			<strong class="fn">Examination
+			</strong> will be able to provide any support or guidance you need to decide
+			what the appropriate next steps are for you. <span>Please
+				note: all queries are dealt with at the discretion of your Centre.</span>
+		</p>
+
+	</div>
+
+
+	<hr />
+	<div id="footer">
+		<p>
+			v3.0.1 Copyright &#169; UCLES 2017.<br />
+			All Rights Reserved. Please read our <a
+				href="/cie-candidate-results/legal"
+				title="Candidate Support legal information">Terms &#38;
+				Conditions</a>.
+		</p>
+		<br class="clearboth" />
+	</div>
+
+	
+</body>
+</html>
