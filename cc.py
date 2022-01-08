@@ -11,8 +11,8 @@ acceptableGrades = [
 
 # Replace this with your login info
 loginInfo = {
-    "username": "ijazmuh25507410",
-    "password": "lMTGurEX"
+    "username": "i*******410",
+    "password": "lM****urEX"
 }
 
 def listToArray(table):
